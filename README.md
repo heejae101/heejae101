@@ -16,10 +16,8 @@ Here are some ideas to get you started:
 
 <div align="center">
   <p>
-    
-![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontSize=20&rotate=100)
-    👋 안녕하세요! 벡엔드 주니어 개발자 채희재입니다.<br>
-    🌱 항상 호기심 갖고 열심히 공부하고 개발하고 있습니다.<br>
+    👋 안녕하세요! 벡엔드 주니어 개발자 채희재입니다.✨<br>
+    🌱 항상 모든 일에 호기심 갖고 열심히 공부하고 개발하고 있습니다.<br>
     🔭 관심 있는 분야는 인공지능과 분산서버 입니다. 
   </p>
 </div>
@@ -44,6 +42,4 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>&nbsp 
   <br>
-  
-![heejae101's GitHub stats](https://github-readme-stats.vercel.app/api?username=heejae101&show_icons=true&theme=radical)
 </p>
