@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
+  <p>
+    안녕하세요! 벡엔드 개발자 채희재입니다.
+    항상 호기심 갖고 매사에 열심히 공부하고 개발하고 있습니다.
+  </p>
+</div>
+
 <h3 align="center">⚡ Tech Stack ⚡</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html&logoColor=white"/>&nbsp
