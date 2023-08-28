@@ -1,5 +1,5 @@
-### Hi there 👋
 <!--
+### Hi there 👋
 **heejae101/heejae101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 <div align="center">
   <p>
     <h2>👋 안녕하세요! 벡엔드 주니어 개발자 채희재입니다.✨<br></h2>
-    <h2>🌱 항상 모든 일에 호기심 갖고 열심히 공부하고 개발하고 있습니다.<br></h2>
-    <h2>🔭 관심 있는 분야는 인공지능과 분산서버 입니다. </h2>
+    🌱 항상 모든 일에 호기심 갖고 열심히 공부하고 개발하고 있습니다.<br>
+    🔭 관심 있는 분야는 인공지능과 분산서버 입니다.
   </p>
 </div>
 
