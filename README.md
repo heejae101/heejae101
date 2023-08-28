@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div align="center">
   <p>
     
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20asdf%20&height=300&fontSize=100&textBg=true)
+![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontSize=20&rotate=-30)
     👋 안녕하세요! 벡엔드 주니어 개발자 채희재입니다.<br>
     🌱 항상 호기심 갖고 열심히 공부하고 개발하고 있습니다.<br>
     🔭 관심 있는 분야는 인공지능과 분산서버 입니다. 
