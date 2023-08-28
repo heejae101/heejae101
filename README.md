@@ -37,5 +37,5 @@ Here are some ideas to get you started:
 </p>
 
 <div align="center">
-![heejae101's GitHub stats](https://github-readme-stats.vercel.app/api?username=heejae101&show_icons=true&theme=radical)
+  <p>![heejae101's GitHub stats](https://github-readme-stats.vercel.app/api?username=heejae101&show_icons=true&theme=radical)</p>
 </div>
