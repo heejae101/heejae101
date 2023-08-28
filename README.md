@@ -34,8 +34,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>&nbsp 
+  ![heejae101's GitHub stats](https://github-readme-stats.vercel.app/api?username=heejae101&show_icons=true&theme=radical)
 </p>
 
-<div align="center">
-  <p>![heejae101's GitHub stats](https://github-readme-stats.vercel.app/api?username=heejae101&show_icons=true&theme=radical)</p>
-</div>
+<p>![heejae101's GitHub stats](https://github-readme-stats.vercel.app/api?username=heejae101&show_icons=true&theme=radical)</p>
