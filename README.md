@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=Hi there 👋%20%20&height=300&fontSize=100&textBg=true)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=Hithere👋%20%20&height=300&fontSize=100&textBg=true)
 <!--
 **heejae101/heejae101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -43,5 +43,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>&nbsp 
 </p>
-
-![heejae101's GitHub stats](https://github-readme-stats.vercel.app/api?username=heejae101&show_icons=true&theme=radical)
+<div align=center>
+  [![heejae101's GitHub stats](https://github-readme-stats.vercel.app/api?username=heejae101&show_icons=true&theme=radical)]
+</div>
