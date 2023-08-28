@@ -25,7 +25,7 @@ Here are some ideas to get you started:
     🤔 취미는 영화 감상, 게임 입니다.
   </p>
 </div>
-</br></br>
+</br>
 
 <h3 align="center">⚡ Tech Stack ⚡</h3>
 <p align="center">
