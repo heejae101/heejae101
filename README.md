@@ -17,19 +17,24 @@ Here are some ideas to get you started:
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=footer&text=Welcome%20profile&fontSize=90)
+</br></br>
   <p>
     <h2> 👋안녕하세요! ✨벡엔드 주니어 개발자 채희재입니다.✨<br></h2>
     🌱 항상 모든 일에 호기심 갖고 열심히 공부하고 개발하고 있습니다.<br>
     🔭 관심 있는 분야는 인공지능과 분산서버 입니다.
   </p>
 </div>
+</br></br>
 
 <h3 align="center">⚡ Tech Stack ⚡</h3>
 <p align="center">
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white"
   <img src="https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Css-1572B6?style=flat-square&logo=css&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>&nbsp
   <br>
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
