@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=Hithere👋%20%20&height=300&fontSize=100&textBg=true)
   <p>
+    
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20asdf%20&height=300&fontSize=100&textBg=true)
     안녕하세요! 벡엔드 개발자 채희재입니다.<br>
     항상 호기심 갖고 열심히 공부하고 개발하고 있습니다.<br>
     관심 있는 분야는 인공지능과 분산서버 입니다. 
@@ -42,9 +43,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>&nbsp 
-  <br><br>
+  <br>
+  
 ![heejae101's GitHub stats](https://github-readme-stats.vercel.app/api?username=heejae101&show_icons=true&theme=radical)
 </p>
-<div align=center>
-
-</div>
