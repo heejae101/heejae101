@@ -1,56 +1,65 @@
-<!--
-### Hi there 👋
-**heejae101/heejae101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👋 안녕하세요, 채희재입니다
 
 <div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=footer&text=Welcome%20profile&fontSize=90)
-</br></br>
-  <p>
-    <h2> 👋안녕하세요!
-      <br>✨채희재입니다.✨<br>
-    </h2>
-    🌱 항상 모든 일에 호기심 갖고 열심히 공부하고 개발하고 있습니다.<br>
-    🔭 관심 있는 분야는 인공지능 입니다.<br>
-    🤔 취미는 영화 감상, 게임 입니다.
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=Heejae's%20Dev%20Log&fontSize=70&animation=fadeIn" />
 </div>
-</br>
 
-<h3 align="center">⚡ Tech Stack ⚡</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Css-1572B6?style=flat-square&logo=css&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white">
-  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
-  <br> 
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
-  <br>
+## 💫 About Me
+항상 새로운 기술에 호기심을 갖고 깊이 있게 탐구하는 개발자입니다.  
+사용자에게 가치 있는 경험을 제공하기 위해 효율적이고 깔끔한 코드를 작성하려 노력합니다.
+
+- 🌱 **Learning**: 끊임없이 변화하는 기술 트렌드를 학습하고 적용합니다.
+- 🔭 **Interest**: 인공지능(AI) 및 데이터 분석 분야에 깊은 관심을 가지고 있습니다.
+- 🎮 **Hobbies**: 영화 감상과 게임을 즐기며 새로운 영감을 얻습니다.
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Language & Frontend
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 </p>
 
+### ⚙️ Backend & Framework
+<p>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+</p>
+
+### 🗄️ Database & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+</p>
+
+### 🛠 Tools
+<p>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white">
+  <img src="https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=heejae101&show_icons=true&theme=radical&hide_border=true" alt="Heejae's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heejae101&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+</p>
+
+---
+
+## 📫 Contact Me
+- **Email**: [본인의 이메일 주소를 입력하세요]
+- **Blog**: [운영 중인 블로그가 있다면 링크를 입력하세요]
 
